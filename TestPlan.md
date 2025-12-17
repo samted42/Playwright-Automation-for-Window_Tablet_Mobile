@@ -14,7 +14,7 @@ Ensure compatibility across Desktop, Tablet, and Mobile devices using Playwright
   - Responsive design validation
  
 ## Out of Scope:
-- **Excludeed Tests:**
+- **Excluded Tests:**
   - Non-functional requirements (e.g., performance, security)
 
 ---
