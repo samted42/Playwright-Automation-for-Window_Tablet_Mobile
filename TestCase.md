@@ -2,7 +2,7 @@
 
 tests/
 ├── desktop/
-│   ├── test_homepage.spec.ts
+│   ├── test_signup.spec.ts
 │   ├── test_login.spec.ts
 ├── tablet/
 │   ├── test_products.spec.ts
